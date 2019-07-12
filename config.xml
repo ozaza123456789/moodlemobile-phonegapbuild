@@ -6,10 +6,10 @@
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Moodle</name>
+    <name>My Courses</name>
 
     <description>
-        Moodle official app
+        MUICT official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
